@@ -1,5 +1,5 @@
 services:
-  web:
+  ffmpeg-service:
     build: .
     environment:
       - PYTHONUNBUFFERED=1
